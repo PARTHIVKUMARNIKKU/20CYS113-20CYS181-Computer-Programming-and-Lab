@@ -1,0 +1,8 @@
+File Modes
+
+    "r": Opens a file for reading. The file must exist.
+    "w": Opens a file for writing. If the file exists, its previous contents are truncated. If the file does not 	   exist, a new file is created.
+    "a": Opens a file for appending. Data is written at the end of the file. If the file does not exist, a new file is created.
+    "r+": Opens a file for both reading and writing. The file must exist.
+    "w+": Opens a file for both reading and writing. If the file exists, its previous contents are truncated. If the file does not exist, a new file is created.
+    "a+": Opens a file for both reading and appending. Data can be read or written at any position in the file. If the file does not exist, a new file is created.
